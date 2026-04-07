@@ -1,2 +1,5 @@
 input_data:
   file_1: "../data/raw/tripadvisor_european_restaurants.csv"
+output_data:
+  file_1: "../data/processed/df_spain.csv"
+  

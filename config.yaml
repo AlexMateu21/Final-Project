@@ -2,4 +2,14 @@ input_data:
   file_1: "../data/raw/tripadvisor_european_restaurants.csv"
 output_data:
   file_1: "../data/clean/tripadvisor_spain.csv"
-  
+  file_2: "../data/clean/price_level_df.csv"
+  file_3: "../data/clean/cuisines_df.csv"
+  file_4: "../data/clean/quality_df.csv"
+  file_5: "../data/clean/country_df.csv"
+  file_6: "../data/clean/region_df.csv"
+  file_7: "../data/clean/province_df.csv"
+  file_8: "../data/clean/cities_df.csv"
+  file_9: "../data/clean/zip_code_df.csv"
+  file_10: "../data/clean/address_df.csv"
+  file_11: "../data/clean/restaurant_cuisines_df.csv"
+  file_12: "../data/clean/restaurants_df.csv"
